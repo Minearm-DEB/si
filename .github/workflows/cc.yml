@@ -25,5 +25,5 @@ jobs:
 
       - name: Run tests
         run: |
-          chmod 777 cc
+          chmod +x cc.py
           python3 cc.py -url http://minearm.org -v 4 -s 60
