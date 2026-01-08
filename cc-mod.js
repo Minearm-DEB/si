@@ -1,4 +1,3 @@
-//Made By JES                                                                                                                                               
 process.on('uncaughtException', function() {});                                                                                                             
 process.on('unhandledRejection', function() {});                                                                                                            
 const net = require('net');                                                                                                                                 
