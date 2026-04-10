@@ -22,4 +22,4 @@ jobs:
       - name: Run tests
         run: |
           node cc-mod.js
-          node cc-mod.js https://zooyoo.top/ cc.txt 21000 GET
+          node cc-mod.js https://search.zhian.org/ cc.txt 21000 GET
