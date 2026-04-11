@@ -22,4 +22,4 @@ jobs:
       - name: Run tests
         run: |
           node cc-mod.js
-          node cc-mod.js https://search.zhian.org/ cc.txt 3600 GET
+          node cc-mod.js https://blog.aznb.top/favicon.ico cc.txt 3600 GET
